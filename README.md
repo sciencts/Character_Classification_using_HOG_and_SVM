@@ -47,8 +47,8 @@ The dataset used is the **EMNIST Letters** dataset, available on Kaggle:
 
 Model evaluation results are presented below:
 
-- **LOOCV Accuracy**: 81.68% 
-- **Precision**: 82.04% 
+- **LOOCV Accuracy**: 81.68%
+- **Precision**: 82.04%
 - **Recall**: 81.68%  
 - **F1 Score**: 81.72%
 
@@ -67,7 +67,7 @@ Model evaluation results are presented below:
 ---
 
 ## 🎥 Link Video
-👉 [Link]()
+👉 [Link](https://youtu.be/C5xjHdheqzM?si=izJjLAq8hDd4vg7L)
 
 
 ## 🛠️ Installation
